@@ -81,7 +81,7 @@ Runs on `http://localhost:5173`
 
 ## Thought process and design decisions
 ### Stack
-First I decided to use springboot and react, because I'm most familiar with them.
+First, I decided to use Springboot and React, because I'm most familiar with them.
 
 ### Backend
 I used the starter boilerplate from start.spring.io, in order to quickly get started
